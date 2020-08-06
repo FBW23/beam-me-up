@@ -31,7 +31,7 @@ Please create a little app with frontend & backend to upload & display a file.
 - Test if you receive the uploaded file in the backend
 - Test if you get back the filename in the frontend
 
-#### Bonus - Display file in frontend
+### Bonus - Display file in frontend
 
 Now we want to provide a route in the frontend to display the uploaded backend file.
 
